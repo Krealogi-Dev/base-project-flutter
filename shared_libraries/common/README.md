@@ -1,4 +1,4 @@
-# shared_libraries
+# common
 
 A new Flutter module project.
 

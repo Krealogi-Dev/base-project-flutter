@@ -1,0 +1,25 @@
+name: common
+description: A common utility project
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dependencies:
+    path: ../dependencies
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  module:
+    androidX: true
+    androidPackage: com.krealogi.common.common
+    iosBundleIdentifier: com.krealogi.common.common

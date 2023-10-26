@@ -1,0 +1,85 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "base-project-flutter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "base-project-flutter (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "base-project-flutter (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "domain",
+            "cwd": "domain",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "domain (profile mode)",
+            "cwd": "domain",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "domain (release mode)",
+            "cwd": "domain",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "resources",
+            "cwd": "resources",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "resources (profile mode)",
+            "cwd": "resources",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "resources (release mode)",
+            "cwd": "resources",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "shared_libraries",
+            "cwd": "shared_libraries",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "shared_libraries (profile mode)",
+            "cwd": "shared_libraries",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "shared_libraries (release mode)",
+            "cwd": "shared_libraries",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
